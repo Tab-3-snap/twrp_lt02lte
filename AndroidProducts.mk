@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_lt02ltetmo.mk
+    $(LOCAL_DIR)/omni_lt02lte.mk
