@@ -56,7 +56,7 @@ RECOVERY_SDCARD_ON_DATA := true
 RECOVERY_TOUCHSCREEN_FLIP_Y := true
 RECOVERY_TOUCHSCREEN_SWAP_XY := true
 TW_BRIGHTNESS_PATH := /sys/devices/platform/msm_fb.525313/leds/lcd-backlight/brightness
-TW_MTP_DEVICE := /dev/usb_mtp_gadget
+TW_MTP_DEVICE := "/dev/mtp_usb"
 TARGET_RECOVERY_QCOM_RTC_FIX := true
 
 # Init properties from bootloader version, ex. model info
